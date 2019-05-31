@@ -1,0 +1,19 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "1st node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eziohunt/node1.git"
+  },
+  "author": "Ezio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eziohunt/node1/issues"
+  },
+  "homepage": "https://github.com/eziohunt/node1#readme"
+}
